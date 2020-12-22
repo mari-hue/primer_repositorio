@@ -1,0 +1,12 @@
+#alineacion{
+    text-align: center;
+}
+.listaDesordenada{
+    list-style-type: square;
+}
+.listaOrdenada{
+    list-style-type: decimal;
+}
+.lista4{
+    list-style-type: lower-latin;
+}
